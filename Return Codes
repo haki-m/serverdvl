@@ -1,0 +1,25 @@
+Return Codes
+
+Code 1 : Installation canceled by user
+The install operation was canceled by the user
+
+Code 2 : The app already exists
+The app already exists on the device.
+
+Code 3 : Installation already in progress
+Another installation is already in progress. The user must complete the installation before proceeding with this installation.
+
+Code 4 : Disk space is full
+Disk space is full.
+
+Code 5 : Restart required
+A reboot is required to complete the installation.
+
+Code 6 : Network failure
+Provide custom return code values ​​for various network-related failures.
+
+Code 7 : Package rejected during installation
+Package rejected during installation due to a security policy enabled on the device.
+
+Code 8 : Successful installation
+The installation was successful.
